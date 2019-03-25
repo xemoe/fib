@@ -1,3 +1,3 @@
-module github.com/xemoe/go-fib
+module fib
 
 go 1.12
